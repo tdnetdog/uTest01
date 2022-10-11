@@ -1,0 +1,3 @@
+[submodule "submodules/StateKit"]
+	path = submodules/StateKit
+	url = git@github.com:tdnetdog/StateKit.git
